@@ -72,7 +72,8 @@ function validateCred(array) {
 
 
 /*
-  findInvalidCards(nestedArray) checks through a nested array for numbers which are invalid, and will return another nested array of the invalid cards.
+  findInvalidCards(nestedArray) checks through a nested array for numbers which are invalid, 
+  and will return another nested array of the invalid cards.
 */
 
 function findInvalidCards(nestedArray) {
@@ -86,7 +87,8 @@ function findInvalidCards(nestedArray) {
 }
 
 /*
-  idInvalidCardCompanies(nestedArray) will return an array of companys with the associated each of the invaild credit card number.
+  idInvalidCardCompanies(nestedArray) will return an array of companys with the associated each of 
+  the invaild credit card number.
 */
 
 function idInvalidCardCompanies(nestedArray){
